@@ -47,3 +47,8 @@ Per poter creare un cocktail bar, abbiamo bisogno anche di sapere i costi totali
 Per la creazione del sito abbiamo utilizzato Altervista, una piattaforma che consente di realizzare un progetto Web gratuitamente con l'auito di Wordpress, un programma che consente la creazione di un sito Internet formato da contenuti testuali o multimedali, gestibili in maniera dinamica mediante un sever.
 
 **IL SITO LO PUOI TROVARE CLICCANDO SUL SEGUENTE LINK:** http://projectbarvr.altervista.org/
+
+
+
+Progetto svolto dal gruppo 03: Matteo Delaini, Luca Mussati, Mattia Parente, Gianfranco Schembri.
+

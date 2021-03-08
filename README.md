@@ -1,5 +1,8 @@
 # Project Bar
 
+![project bar](https://user-images.githubusercontent.com/79453292/110312915-05c6b600-8006-11eb-9a6c-d64f0dfa3873.PNG)
+
+
 **Cosa è Project Bar?**
 
 Project Bar è il progetto che abbiamo deciso di portare per il lavoro di apporfondimento. Consiste nella progettazione di un Cocktail Bar con tutto quello che serve per poter aprire il locale. Nel progetto abbiamo deciso di usare delle nozioni imparate quest'anno per tutto quello che riguarda il BCM e il VPC. Inoltre abbiamo creato un sito web con Altervista e Wordpress.
@@ -41,6 +44,10 @@ Il *Business Model Canvas (BMC)* è uno strumento strategico di Business Design 
 Per poter creare un cocktail bar, abbiamo bisogno anche di sapere i costi totali, suddivisi per settimana, di tutti i prodotti che andiamo a prendere per poi vendere dentro al bar.
 
 ![analisi costi](https://user-images.githubusercontent.com/79453292/110310818-440ea600-8003-11eb-9d16-585b4b11ac63.PNG)
+
+## Planimetria del bar
+
+![planimetria](https://user-images.githubusercontent.com/79453292/110313023-2abb2900-8006-11eb-83d2-3bcae79bc6e1.PNG)
 
 ## Creazione del sito
 

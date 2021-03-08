@@ -10,7 +10,7 @@ Project Bar è il progetto che abbiamo deciso di portare per il lavoro di apporf
 
 [TOC]
 
-##Diario di Bordo
+## Diario di Bordo
 
 Il primo giorno, quando ci è stato assegnato il lavoro, abbiamo pensato al progetto da sviluppare. Dopo un confronto esaustivo abbiamo deciso di fare la progettazione di un cocktail bar.
 
@@ -22,16 +22,28 @@ Avendo tutto quello necessario per la creazione fisica di un bar, siamo passati 
 
 Infine, avendo finito tutto, abbiamo presentato alla classe il nostro progetto.
 
-##Value Proposition Canvas
+## Value Proposition Canvas
 
 Il *Value proposition canvas (VPC)* o *proposta di valore* è uno degli elementi principali del Business Design, infatti, è ciò che fa incontrare la tua azienda con i giusti Segmenti di Clientela.
 
 Nel Project Bar abbiamo optato per un VPC che chiamasse ai clienti più giovani a venire al nostro cocktail bar.
 
-##Business Model Canvas
+![VPC](https://user-images.githubusercontent.com/79453292/110310353-ba5ed880-8002-11eb-8bab-be3563972bc2.PNG)
+
+## Business Model Canvas
 
 Il *Business Model Canvas (BMC)* è uno strumento strategico di Business Design che utilizza il linguaggio visuale per creare e sviluppare modelli di business innovativi, ad alto valore. Consente di rappresentare visivamente il modo in cui un’azienda crea, distribuisce e cattura valore per i propri clienti.
 
-##Proposta Economica e Analisi dei costi
+![BMC](https://user-images.githubusercontent.com/79453292/110310766-322d0300-8003-11eb-83da-247a1df76bee.PNG)
+
+## Proposta Economica e Analisi dei costi
 
 Per poter creare un cocktail bar, abbiamo bisogno anche di sapere i costi totali, suddivisi per settimana, di tutti i prodotti che andiamo a prendere per poi vendere dentro al bar.
+
+![analisi costi](https://user-images.githubusercontent.com/79453292/110310818-440ea600-8003-11eb-9d16-585b4b11ac63.PNG)
+
+## Creazione del sito
+
+Per la creazione del sito abbiamo utilizzato Altervista, una piattaforma che consente di realizzare un progetto Web gratuitamente con l'auito di Wordpress, un programma che consente la creazione di un sito Internet formato da contenuti testuali o multimedali, gestibili in maniera dinamica mediante un sever.
+
+**IL SITO LO PUOI TROVARE CLICCANDO SUL SEGUENTE LINK:** http://projectbarvr.altervista.org/
